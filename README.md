@@ -1,19 +1,17 @@
 ```
-                                    [........[........[..            [..       [..[..      
-                                    [..      [..      [..            [. [..   [...[..      
-                                    [..      [..      [..            [.. [.. [ [..[..      
-                                    [......  [......  [..      [.....[..  [..  [..[..      
-                                    [..      [..      [..            [..   [.  [..[..      
-                                    [..      [..      [..            [..       [..[..      
-                                    [..      [..      [........      [..       [..[........
+                            [........[........[..            [..       [..[..      
+                            [..      [..      [..            [. [..   [...[..      
+                            [..      [..      [..            [.. [.. [ [..[..      
+                            [......  [......  [..      [.....[..  [..  [..[..      
+                            [..      [..      [..            [..   [.  [..[..      
+                            [..      [..      [..            [..       [..[..      
+                            [..      [..      [........      [..       [..[........
                                                        
 ```
 Welcome to the **"Fantasy Football League Machine Learning"** code base. This is a project dedicated to exploring a series of questions that can help aid our decision making in Fantasy Football. 
 
 ## Tools
-- [Python 3]()
-- Azure Cloud Tools
-    - Coming Soon...
+Coming Soon ...
     
 ## Getting Started
 Coming Soon ...
