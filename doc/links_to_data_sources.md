@@ -25,6 +25,7 @@
 - [New England Patriots Deflategate Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FNVMRL)
 - [NFL Brand Loyalty](https://search.datacite.org/works/10.5281/zenodo.3522080) : This research examines brand loyalty and team identification among fans of National Football League (NFL) teams and how loyalty to football, NFL teams and athletes is impacted by the changing dynamics of the fanbase. Brand loyalty in sports is complex and fan attachment to their teams often provoke intense emotional responses. The research employed a Likert-type survey questionnaire pre- and post-test and an emotional response pictorial assessment using Self-Assessment Manakin (SAM) to measure emotional dimensions....
 - [Football Player Salaries](https://www.kaggle.com/trolukovich/football-players-salaries)
+- [Analysis of NFL Injuries](https://www.kaggle.com/jaseziv83/an-analysis-of-nfl-injuries)
     
 ## NCAA Football Data
 - [College Football Attendance 2000-2018](https://www.kaggle.com/jeffgallini/college-football-attendance-2000-to-2018)
